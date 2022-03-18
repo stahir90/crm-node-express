@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env", //To transpile ES2015+ JS syntax
+        "stage-0", //to get the latest JS syntax
+        "@babel/preset-typescript"
+    ]
+}
